@@ -1,7 +1,7 @@
 # R-Stadia-Website
 A Game/App Rental Website which charges you based on the usage of the application :)
-Documentation : https://online.fliphtml5.com/mobxz/rkmt/#p=1
-# Made with : HTML,CSS,Java-Script and Love ❤️
+Documentation : https://online.fliphtml5.com/mobxz/rkmt/#p=1 | 
+Made with : HTML,CSS,Java-Script and  ❤️
 # Features 
 Dynamic Timer,
 Pay-per-use Model,
