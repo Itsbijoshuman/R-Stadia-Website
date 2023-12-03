@@ -1,5 +1,6 @@
 # R-Stadia-Website
 A Game/App Rental Website which charges you based on the usage of the application :)
+Documentation : https://online.fliphtml5.com/mobxz/rkmt/#p=1
 
 # Features 
 Dynamic Timer,
