@@ -2,7 +2,7 @@
 A Game/App Rental Website which charges you based on the usage of the application :)
 
 # Features 
-Dynamic Timer
+Dynamic Timer \n
 Pay-per-use Model
 Provides Platform for App/Game Owners to Publish their App for Rent & get paid
 
