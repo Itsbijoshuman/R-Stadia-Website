@@ -1,0 +1,25 @@
+body {
+    background-color: #f2f2f2;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .timer-section {
+    text-align: center;
+  }
+  
+  .timer {
+    font-size: 5rem;
+    margin-top: 2rem;
+  }
+  
+  .price {
+    font-size: 2rem;
+    margin-top: 1rem;
+  }
+  

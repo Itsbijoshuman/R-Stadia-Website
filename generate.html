@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Random String Generator</title>
+	<script>
+		function generateRandomString(length) {
+			var result = '';
+			var characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789';
+			var charactersLength = characters.length;
+			for (var i = 0; i < length; i++) {
+				result += characters.charAt(Math.floor(Math.random() * charactersLength));
+			}
+			return result;
+		}
+
+		window.onload = function() {
+			var numStrings = 5; // Change this to the number of strings you want to generate
+			var stringsContainer = document.getElementById("strings-container");
+			for (var i = 0; i < numStrings; i++) {
+				var newStringElement = document.createElement("p");
+				newStringElement.innerHTML = generateRandomString(16);
+				stringsContainer.appendChild(newStringElement);
+			}
+		}
+	</script>
+</head>
+<body>
+	<h1>Random String Generator</h1>
+	<p>Here are some random strings:</p>
+	<div id="strings-container"></div>
+</body>
+</html>
