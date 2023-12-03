@@ -2,9 +2,9 @@
 A Game/App Rental Website which charges you based on the usage of the application :)
 
 # Features 
-Dynamic Timer \n
-Pay-per-use Model
-Provides Platform for App/Game Owners to Publish their App for Rent & get paid
+Dynamic Timer,
+Pay-per-use Model,
+Provides Platform for App/Game Owners to Publish their App for Rent & get paid.
 
 # ScreenShots
 ![image2](https://github.com/Itsbijoshuman/R-Stadia-Website/assets/93047483/00d760c7-272e-48a8-a802-4481be8a66a7)
